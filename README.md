@@ -1,4 +1,4 @@
-สคริป autoclicker ง่ายๆ โดย RealnattawattHo
+สคริป autoclicker ง่ายๆ โดย RealnattawattHongthong
 
 อย่าลืมลง Python ก่อนรันนะ
 อับเดต
