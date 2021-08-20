@@ -10,6 +10,7 @@ time.sleep(3)
 print("if you want to end process the program press q to stop the program")
 time.sleep(2)
 wait = input("press enter to continue..")
+time.sleep(5)
 
 mouse = pyautogui.position()
 while True:
